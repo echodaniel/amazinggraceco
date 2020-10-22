@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Amazing Grace Community Church of Aspen Springs, CO
+*..this is as close to the first century church that we've seen…"*
 
-You can use the [editor on GitHub](https://github.com/echodaniel/amazinggraceco/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Contemporary Conservative Christian Grace-filled, Full-Joy Worshipping
+> *“At the end of our worship service the question should not be whether we thought the service was good, but whether we thought God was pleased.”*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Service Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Sunday, 10am** - Morning Worship, Children's Ministry & Discipleship Training
+**Wednesday, 1130am** - Morning Bible Study
 
-```markdown
-Syntax highlighted code block
+# Ministry Information
 
-# Header 1
-## Header 2
-### Header 3
+**Food Pantry Open Wed & Sun 10-1** [info here](https://linktoanotherpagehere.com)
 
-- Bulleted
-- List
+We're inviting YOU (yes, you) to our church services this Sunday. 
 
-1. Numbered
-2. List
+"*And they devoted themselves to the Apostles' teaching and fellowship, to breaking of bread and prayer.* **Acts 2:42**"
+- [why should I consider attending?](https://linktoanotherpagehere.com)
 
-**Bold** and _Italic_ and `Code` text
+Has this virus or the government shutdown messed with your head or heart? Need answers? Strength? Prayer? Direction? Human Companionship? This is the place for you.
 
-[Link](url) and ![Image](src)
-```
+### Interact With Us
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Listen to our [Sermon Podcast](http://amazinggraceco.podbean.com/) or download it on [iTunes](https://podcasts.apple.com/us/podcast/amazing-grace-community-church/id1473942716)
 
-### Jekyll Themes
+We've JUST partnered up with RightNow Media to provide our church with [free discipleship videos](https://www.rightnowmedia.org/Account/Invite/AmazingGraceColorado) for pastors, leaders, small groups, adults, students, and kids. Think YouTube meets Amazon Prime meets Christianity.
+- for anyone directly or indirectly affiliated with our church ministry.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/echodaniel/amazinggraceco/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Contact us if you'd like to visit with us or need pastoral care.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Read or Pastor's Blogs and the Reluctant Pastor's Wife Blog.
+
+
+# General Information
+Location: 77 Navajo Circle, Pagosa Springs, CO 81147
+Phone: 970-444-2111
+DIRECTIONS - Hwy 160 to Hurt Dr. (Turkey Springs exit), South on Hurt. Dr., left on Buecler, right on Navajo Cir.
+
+
+> What do we believe? How do we do things here?
+Download our church introduction booklet with a brief statement of faith.
+
+We host this website on [Github](https://github.com) and use [Jekyll](https://jekyllrb.com/) for styling.

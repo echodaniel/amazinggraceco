@@ -29,7 +29,7 @@ We've JUST partnered up with RightNow Media to provide our church with [free dis
 - for anyone directly or indirectly affiliated with our church ministry.
 
 
-Contact us if you'd like to visit with us or need pastoral care.
+[Contact us](/contact-form) if you'd like to visit with us or need pastoral care.
 
 Read or Pastor's Blogs and the Reluctant Pastor's Wife Blog.
 

@@ -12,12 +12,12 @@ Contemporary Conservative Christian Grace-filled, Full-Joy Worshipping
 
 # Ministry Information
 
-**Food Pantry Open Wed & Sun 10-1** [info here](https://linktoanotherpagehere.com)
+**Food Pantry Open Wed & Sun 10-1** [info here](/childrens-ministry.md)
 
 We're inviting YOU (yes, you) to our church services this Sunday. 
 
 "*And they devoted themselves to the Apostles' teaching and fellowship, to breaking of bread and prayer.* **Acts 2:42**"
-- [why should I consider attending?](https://linktoanotherpagehere.com)
+- [why should I consider attending?](/why-should-I-attend-amazing-grace.md)
 
 Has this virus or the government shutdown messed with your head or heart? Need answers? Strength? Prayer? Direction? Human Companionship? This is the place for you.
 
